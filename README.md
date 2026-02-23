@@ -27,7 +27,6 @@ The application helps users manage their daily tasks efficiently. Users can add,
 
 ## 📂 Project Structure
 To-Do-List/ │── index.html │── style.css │── script.js │── README.md
-Copy code
 
 ---
 
